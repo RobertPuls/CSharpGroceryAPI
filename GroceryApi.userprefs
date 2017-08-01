@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{2CFD1175-8EA0-40F3-B9B1-05C80F0B0D47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GroceryApi/Controllers/GroceryController.cs">
+    <Files>
+      <File FileName="GroceryApi/Models/GroceryItem.cs" Line="8" Column="40" />
+      <File FileName="GroceryApi/Models/GroceryContext.cs" Line="12" Column="41" />
+      <File FileName="GroceryApi/Startup.cs" Line="19" Column="4" />
+      <File FileName="GroceryApi/Controllers/GroceryController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GroceryApi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

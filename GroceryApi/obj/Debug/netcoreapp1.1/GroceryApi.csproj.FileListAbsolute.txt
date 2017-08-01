@@ -1,0 +1,10 @@
+/Users/rob/Projects/GroceryApi/GroceryApi/bin/Debug/netcoreapp1.1/GroceryApi.deps.json
+/Users/rob/Projects/GroceryApi/GroceryApi/bin/Debug/netcoreapp1.1/GroceryApi.runtimeconfig.json
+/Users/rob/Projects/GroceryApi/GroceryApi/bin/Debug/netcoreapp1.1/GroceryApi.runtimeconfig.dev.json
+/Users/rob/Projects/GroceryApi/GroceryApi/bin/Debug/netcoreapp1.1/GroceryApi.dll
+/Users/rob/Projects/GroceryApi/GroceryApi/bin/Debug/netcoreapp1.1/GroceryApi.pdb
+/Users/rob/Projects/GroceryApi/GroceryApi/obj/Debug/netcoreapp1.1/GroceryApi.csprojResolveAssemblyReference.cache
+/Users/rob/Projects/GroceryApi/GroceryApi/obj/Debug/netcoreapp1.1/GroceryApi.csproj.CoreCompileInputs.cache
+/Users/rob/Projects/GroceryApi/GroceryApi/obj/Debug/netcoreapp1.1/GroceryApi.AssemblyInfo.cs
+/Users/rob/Projects/GroceryApi/GroceryApi/obj/Debug/netcoreapp1.1/GroceryApi.dll
+/Users/rob/Projects/GroceryApi/GroceryApi/obj/Debug/netcoreapp1.1/GroceryApi.pdb
